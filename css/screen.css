@@ -1,0 +1,20 @@
+body {
+  font-family: 'Cantarell', arial, serif;
+  background-color: #D8E1E6 /* #C3D4D9*/;
+}
+#site {
+  width: 640px;
+  margin: 0 auto;
+  margin-top: 20em;
+}
+#head {
+  text-align: center;
+}
+#head a {
+  font-size: 4em;
+}
+a:link, a:active, a:visited {
+  color: #49595E;
+  text-shadow: #8DA8B0 1px 1px 1px;
+  text-decoration: none;
+}
