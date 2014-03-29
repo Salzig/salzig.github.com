@@ -1,0 +1,64 @@
+I hereby claim:
+
+  * I am an admin of http://ben.rexin.at
+  * I am salzig (https://keybase.io/salzig) on keybase.
+  * I have a public key with fingerprint CD9D 2123 9FFA 5593 1E16  92F1 D770 F3C0 0283 C6AA
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "cd9d21239ffa55931e1692f1d770f3c00283c6aa",
+            "host": "keybase.io",
+            "key_id": "D770F3C00283C6AA",
+            "uid": "c8aeb42a42d36015ab9df73e26184900",
+            "username": "salzig"
+        },
+        "service": {
+            "hostname": "ben.rexin.at",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396053258,
+    "expire_in": 157680000,
+    "prev": "23fe6e532d1aa80b3a1034407dec63a7fa1692857892c2bdf48bee5e50ab5855",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMWo+nOrYeklp7WMpw+8T2IINhPlqlZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSskplilGhkbGlmlpiaamlsaGqYZmlkZphinm5gZpxskGBkYWxslmiYlK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQ1AWo3s3YGaze2czREShXCpZItkhMTTIx
+SjQxSjE2MzA0TUyyTEkzN041MjO0MLE0MAApLE4tykvMTQWqLk7MqcpMV6rVUQKK
+lWUmp4JcDLIYKp+UmqdXlFqRmaeXWALUWVCUX5KfnJ8DlMkoKSmwAmksqSwAqSxP
+TYqHmhGflJmXAvQ1UENZalFxZn6ekpUhUGVySSbIUENjSzMDU2MjUwsdpdSKgsyi
+1PhMkApTczMLAyAAWZNaBjTSyDgt1SwVqDLFMDHRwiDJONHQwNjExMA8JTXZzDjR
+PC0RFHYWpuYWlkbJRkkpaSYWSamppqmmBolJphampkogXxXm5StZmQGdmZgO8m9m
+el5iSWlRqlJtJ5MMCwMjFwMbKxMo3hi4OAVgsfnjtADD7I/l00KiBMxS9loaNypz
+2Ey9evjR0d9ie3etP6WxP3tn/p+Sbq6H0+4xaWnfDSuZNmfrJbd1e0oORc98mnDt
+rvrpNYWZnF3zDH8cutv5g/Ov460/DhzXjgtEsvVyX+pfFsNTOcH50LNYnTKG/Uq+
+u3qy8h8d5FLU4TA9Zzu1+/qRrH1iqqo3rK8cWFDpsP6lEUdz5lmDS/ueJK5quFWs
+c73kUr6b8qu6NdIT40UrWSzn2utFvp7bseN2v5Htvp08y7fvm9Sb6lxd1TnhcFKn
+z+qc23pPAoq/fA22XNw2W++1skcKZ8RBeY0/FgVnxHJmPql6UMbAyfG1ZfKXIOZD
+fx33L1y2adu2xv87p8cX+y18L+qecUl+v6i5oQlP++yMqJXLn9d6fGpm8GdSl1fd
+c+/adsZFT1InXpaQ+Th9a4LgiZmeXk0Vs2reLJrI9PBTl7nE+vYOmxi/kz+TPu7v
+LLzKwN/I1MYT3LdeaX2ZhIaFyIIVL66yRujt5rCVbper3RH3d67RwWTPZ2aLD+7V
+jlGqFGBnKbk9l/vCNeV8pamS/z1n6Im/0/c9vOiGlvAKgcUWhpETfXzFsxfNPfJW
+Tsh4vdAn72ufvh1RzKvRaQudEXwqp8bxrfUasQNfbTVXPV9stcTndkr/zwXfwvu/
+2Zfv5Jr2pF2nqdkgVNr05HzOY/Pqs1fOdtxTEnZ9ykzRgHfrs549/L8y+bo/AA==
+=9Aex
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/salzig
