@@ -3,3 +3,4 @@ auto: true
 paginate: 5
 pygments: true
 exclude: [README]
+include: [.well-known]
